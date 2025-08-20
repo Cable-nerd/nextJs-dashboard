@@ -1,9 +1,9 @@
-export default function Page() {
+const Page = () => {
    return <p>customers page</p>
 }
 
 
-
+export default Page;
 
 
 
